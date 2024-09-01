@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/hashimotos-thyroiditis-autoimmune---secondary.py
+inputModule3:
+  class: File
+  path: python/hashimotos-thyroiditis-unspecified---secondary.py
+inputModule4:
+  class: File
+  path: python/thyroiditis---secondary.py
+inputModule5:
+  class: File
+  path: python/lymphocytic-hashimotos-thyroiditis---secondary.py
+inputModule6:
+  class: File
+  path: python/fibrous-hashimotos-thyroiditis---secondary.py
+inputModule7:
+  class: File
+  path: python/hashimoto---secondary.py
+inputModule8:
+  class: File
+  path: python/hashimotos-thyroiditis-goiter---secondary.py
+inputModule9:
+  class: File
+  path: python/hashimotos-thyroiditis-hypothyroidism---secondary.py
+inputModule10:
+  class: File
+  path: python/hashimotos-thyroiditis-hashitoxicosis---secondary.py
+inputModule11:
+  class: File
+  path: python/hashimotos-thyroiditis-subacute---secondary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
